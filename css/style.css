@@ -1,0 +1,35 @@
+:root {
+    --color1: #DAA520;
+    --color2: #A0522D;
+}
+
+header, footer, section {
+    padding: 100px 0;
+}
+* {
+    font-family: Calibri, serif
+}
+
+header {
+    padding: 200px 0;
+}
+
+fieldset {
+    margin-bottom: 15px;
+    padding: 10px
+}
+
+legend {
+    padding: 0 3px;
+    font-weight: bold;
+    font-variant: small-caps
+}
+
+select {
+    width: 254px
+}
+
+input[type=submit] {
+    width: 170px;
+    padding: 10px
+}
